@@ -1,6 +1,7 @@
 # Online Hospital Management website using java
 
 Silver Crest Hospital
+
 This website is built for the following purpose:
 1. To make appointment with the doctor according to their availability.
 2. Maintaining record of he appointments made by the users.
