@@ -4,7 +4,7 @@ Silver Crest Hospital
 
 This website is built for the following purpose:
 1. To make appointment with the doctor according to their availability.
-2. Maintaining record of he appointments made by the users.
+2. Maintaining record of the appointments made by the users.
 3. To get the list of all the doctors according to their specialization and the available times.
 4. To check if a person has close symptoms of covid-19 according to the questionare filled by them.
 5. User friendly
